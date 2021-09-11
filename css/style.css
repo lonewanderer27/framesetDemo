@@ -1,0 +1,33 @@
+h1 {color: #FFEB3B;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+h2 {color: #FEC400;
+	font-family: Arial, sans-serif;
+}
+
+p {color: #FFFFFF;
+	margin-right: 40px;
+	margin-left: 40px;
+	padding-bottom: 4px;
+}
+
+blockquote {
+	color: #FFFFFF; 
+	font-size: 20px; 
+	font-weight: bold;
+}
+
+.info {
+	display: inline-block;
+	width: 10em;
+	font-weight: bold;
+}
+
+.contact {
+	display:inline-block;
+	width:10em;
+	font-weight:bold;
+}
